@@ -1,0 +1,9 @@
+Organización
+Es la etapa del proceso administrativo que coordina
+y ordena los recursos y tareas del centro de computo.
+Con el fin de simplificar las actividades y facilitar
+el logro de los objetivos.
+
+Ejemplo.
+Dividir las tareas de un proyecto entre diferentes equipos de trabajo especializados,
+con su propia jerarquia que responde a un coordinador de proyecto.
